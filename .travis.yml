@@ -2,6 +2,7 @@
 # http://about.travis-ci.org/docs/user/build-configuration/
 # This file can be validated on:
 # http://lint.travis-ci.org/
+sudo: required
 
 install:
 # /usr/bin/gcc is 4.6 always, but gcc-X.Y is available.
