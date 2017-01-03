@@ -45,6 +45,7 @@ addons:
 os:
   - linux
   - osx
+dist: trusty
 language: cpp
 compiler:
   - gcc
